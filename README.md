@@ -15,7 +15,7 @@
 <p align="left">
   <samp>
     <strong>:cat2: 2021 goal</strong>
-    <br>- :bookmark_tabs: Arrange time to keep up with latest DL research
+    <br>- :bookmark_tabs: Arrange time to keep up with the latest DL research
     <br>- :woman_technologist: Improve my front-end development skills
     <br>- :books: Read more books, especially on management and productivity
     <br>- :running_woman: Exercise 3-4 times a week
