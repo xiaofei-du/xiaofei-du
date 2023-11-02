@@ -15,7 +15,7 @@
 
 <p align="left">
   <samp>
-    <strong>:cat2: 2022 goal</strong>
+    <strong>:cat2: 2023 goal</strong>
     <br>- :woman_technologist: Improve my product management and devOps skills
     <br>- :books: Read more books, especially on management and productivity
     <br>- :running_woman: Exercise 3 times a week
